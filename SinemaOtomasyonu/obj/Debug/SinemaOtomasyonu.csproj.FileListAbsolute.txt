@@ -1,0 +1,7 @@
+C:\Users\mfurkanyener\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\mfurkanyener\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\mfurkanyener\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\mfurkanyener\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\mfurkanyener\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\mfurkanyener\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\mfurkanyener\Desktop\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
